@@ -1,0 +1,24 @@
+.loginWrapper {
+  margin: 30px;
+  text-align: center;
+}
+
+.login-form-button {
+  width: 100%;
+  border-radius: 5px;
+  height: 35px;
+  margin-top: 20px;
+}
+
+#password,
+#email {
+  border-radius: 5px;
+  margin-top: 15px;
+  padding: 20px;
+  height: 35px;
+  width: 100%;
+}
+
+#error {
+  color: red;
+}

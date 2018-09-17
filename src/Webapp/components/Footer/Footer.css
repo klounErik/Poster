@@ -1,0 +1,14 @@
+.footerWrapper {
+    margin: 0px;
+    width: 100%;
+    padding: 0px;
+    bottom: 0%;
+    z-index: 100;
+    position: fixed;
+    background-color: #1e272e;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
